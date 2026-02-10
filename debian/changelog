@@ -1,48 +1,5 @@
-oxyos-exit (13) unstable; urgency=low
+oxyos-exit (1.0) trixie; urgency=medium
 
-  * Version bump
+  * Initial OxyOS release.
 
- -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 08 Jun 2025 19:24:25 -0600
-
-oxyos-exit (12.1) unstable; urgency=low
-
-  * @kip2choc added ESC hotkey to close the window
-
- -- Ben Young <computermouth@crunchbangplusplus.org>  Thu, 01 Feb 2024 19:24:25 -0600
-
-oxyos-exit (12.0) unstable; urgency=low
-
-  * Version bump
-
- -- Ben Young <computermouth@crunchbangplusplus.org>  Sun, 14 May 2023 17:03:25 -0600
-
-oxyos-exit (11.0) unstable; urgency=low
-
-  * Migrated to python3 and gi
-
- -- Ben Young <computermouth@crunchbangplusplus.org>  Thu, 22 Apr 2021 12:48:25 -0600
-
-oxyos-exit (10.0) unstable; urgency=low
-
-  * Removed unneccessary dependencies on upower and consolekit
-
- -- Ben Young <computermouth@crunchbangplusplus.org>  Tue, 30 Apr 2019 21:27:25 -0600
-
-oxyos-exit (9.0) unstable; urgency=low
-
-  * Nine, also, who the hell is crunch@crunchbang???
-
- -- Ben Young <computermouth@crunchbangplusplus.org>  Mon, 27 Feb 2017 23:23:25 -0800
-
-oxyos-exit (1.0) unstable; urgency=low
-
-  * Initial Release.
-  * Removed cb-lock mention and patched to systemctl commands.
-
- -- crunch <crunch@crunchbang>  Mon, 23 Feb 2015 21:52:25 -0600
-
-cb-exit (0.01) unstable; urgency=low
-
-  * Initial release.
-
- -- Philip Newborough <corenominal@corenominal.org>  Mon, 16 Apr 2012 11:28:48 +0100
+ -- OxyHQ <hello@oxy.so>  Mon, 10 Feb 2026 00:00:00 +0000
