@@ -1,13 +1,13 @@
-Source: cbpp-exit
+Source: oxyos-exit
 Section: misc
 Priority: extra
-Maintainer: Ben Young <computermouth@crunchbangplusplus.org>
+Maintainer: OxyHQ <admin@oxy.so>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 3.9.5
-Homepage: https://crunchbangplusplus.org
+Homepage: https://oxyos.org
 
-Package: cbpp-exit
+Package: oxyos-exit
 Architecture: all
 Depends: ${misc:Depends}, python3-gi
-Description: CrunchBangPlusPlus logout script.
+Description: OxyOS logout script.
  GUI logout/shutdown/restart/suspend script.
